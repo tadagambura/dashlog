@@ -56,6 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After a renewal, set next year's date |
 | Cadence | Several times a year |
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- A calm check mark when a renewal is done
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
