@@ -42,6 +42,8 @@ UK car owners, especially young drivers and households with more than one car.
 | Premium | £1.49/month or £9.99 lifetime: multiple cars, cost reports, documents |
 | Affiliate | Insurance and breakdown comparisons, clearly labelled |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
