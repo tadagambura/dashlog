@@ -1,6 +1,6 @@
 # DashLog: Spec
 
-**Never miss an MOT, tax or insurance renewal** · #27 of 32 · Wave 3: Seasonal and episodic · Used: A few times a year · Easy · Revenue potential: Low–medium · Plans, Trips & Occasions · Source: New (Claude)
+**Never miss an MOT, tax or insurance renewal** · #26 of 31 · Wave 3: Seasonal and episodic · Used: A few times a year · Easy · Revenue potential: Low–medium · Plans, Trips & Occasions · Source: New (Claude)
 
 ## One-liner
 
