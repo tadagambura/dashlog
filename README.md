@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After a renewal, set next year's date |
 | Cadence | Several times a year |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+**Calm.** Gentle, kind humour and smooth motion: a stickman yawning after a shift, a fly escaping an empty pocket. No drama, nothing that adds stress.
 
-- A calm check mark when a renewal is done
+- Renewal done: the car beeps and flashes its lights
+- MOT reminder: the little car taps its watch
+- Cost logged: the fuel needle wobbles
+- All dates sorted: the car does a tiny celebratory spin
+- Insurance saving: the car puts on sunglasses
 
 
 ## AI
